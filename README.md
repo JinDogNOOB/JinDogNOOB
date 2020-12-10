@@ -16,7 +16,7 @@
   - data : mysql 계열 
   - etc : git, ethereum
 
-### 공부할 것들
+### TARGET
   - Go & geth 코어 분석
   - Graph QL
   - c++ mfc&qt
