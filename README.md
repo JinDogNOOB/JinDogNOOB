@@ -21,21 +21,17 @@
 
 <!--
 **JinDogNOOB/JinDogNOOB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<!--
-  - geth 코어 분석
-  - Graph QL
-  - c++ mfc&qt
-  - c 소켓프로그래밍 제대로 복습
-  - 웹기반 게임 개발
-  - asp.net core mvc
-  - docker compose yaml 파일들
-
 -->
-
-Here are some ideas to get you started:
-
+<!--
+geth 코어 분석
+Graph QL
+c++ mfc&qt
+c 소켓프로그래밍 제대로 복습
+웹기반 게임 개발
+asp.net core mvc
+docker compose yaml 파일들
+-->
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
