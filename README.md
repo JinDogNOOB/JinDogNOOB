@@ -7,7 +7,7 @@
   - 2019.06 ~ 2019.12 : 학부연구 : 블록체인 관련 서비스 연구 & 개발
   - 2019.12 ~ 2020.06 : Unbeil_project(하이퍼써트) : 프로젝트 리더, 백엔드 개발
   - 2020.06 ~ 2020.08 : QART_project(하이퍼써트) : 임시 프로젝트 리더, 요구사항 미팅, 분석, 국제화 도움
-  - 2020.08 ~ xxxx.xx : 구직 중! & JPA Hibernate, ethereum 공부중!
+  - 2020.08 ~ xxxx.xx : 구직 중! &ethereum 공부중!
 
 ### 기술스택
   - language : java, java script, c++, solidity, r
