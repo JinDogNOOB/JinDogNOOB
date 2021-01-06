@@ -1,6 +1,6 @@
 ### 안녕하세요 👋👋👋
 ### 정보보호학을 공부했고 현재는 블록체인, 웹개발에 관심이 있는 학생입니다!
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23353500&icon=&icon_color=%23727272&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 기록
   - 2015.02 ~ 2021.02 : 건양대학교 정보보호학과 입학 & 졸업
   - 2017.02 ~ 2018.11 : 육군 : 정보보호병 입대 & 전역
