@@ -1,20 +1,18 @@
-### 안녕하세요 👋👋👋
-### 정보보호학을 공부했고 현재는 블록체인, 웹개발에 관심이 있는 학생입니다!
+### Hello 👋👋👋
+### 블록체인, 웹 개발을 하는 정보보호학도
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinDogNOOB%2Fhit-counter&count_bg=%23000000&title_bg=%23353500&icon=&icon_color=%23727272&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 기록
-  - 2015.02 ~ 2021.02 : 건양대학교 정보보호학과 입학 & 졸업
-  - 2017.02 ~ 2018.11 : 육군 : 정보보호병 입대 & 전역
   - 2019.06 ~ 2019.12 : 학부연구 : 블록체인 관련 서비스 연구 & 개발
   - 2019.12 ~ 2020.06 : Unbeil_project(하이퍼써트) : 프로젝트 리더, 백엔드 개발
   - 2020.06 ~ 2020.08 : QART_project(하이퍼써트) : 임시 프로젝트 리더, 요구사항 미팅, 분석, 국제화 도움
-  - 2020.08 ~ xxxx.xx : 구직 중! &ethereum 공부중!
+  - 2020.12 ~ xxxx.xx : ...
 
 ### 기술스택
-  - language : java, java script, c++, solidity, r
+  - language : java, js, ts, c++, solidity, r
   - FrontEnd : basic html & css, react
-  - BackEnd : java spring, node.js with express, mybatis, hibernate
-  - data : mysql 계열 
-  - etc : git, ethereum
+  - BackEnd : java spring boot, restful, node.js with express, mybatis, hibernate
+  - data : mysql, mariadb, mongoDB
+  - etc : git, ethereum, web3js, ubuntu
 
 ### 연락
   - email : mrriey00@outlook.kr
